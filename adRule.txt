@@ -51,3 +51,10 @@ www.hao123.com##[id^='coolsite-bottom-group']> .coolsiteresource > .coolsitereso
 www.hao123.com##[id^='coolsite-top-group']> .coolsiteresource > .coolsiteresource-tip.g-ib
 www.hao123.com##[id^='coolsite-top-group']> .coolsitead > .tridown.coolsitead-tip.g-ib
 www.hao123.com##.g-lh14.tips
+
+
+!---------------allow---------------
+@@||tb1.bdstatic.com/tb/*
+@@||tb1.bdstatic.com/tb/cms/ngmis/images/*
+@@||tb1.bdstatic.com/tb/r/image/*/*
+@@||tb1.bdstatic.com/tb/r/image/*
