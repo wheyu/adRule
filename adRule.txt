@@ -4,8 +4,14 @@
 ! Last modified: 2018/09/20
 ! Email: null
 ! Homepage: null
+!---------------baidu---------------
+||bdstatic.com/
+||gss0.baidu.com^
+||gss1.baidu.com^
+||gss2.baidu.com^
 
-!bt之家
+
+!---------------bt之家---------------
 ||mebtbtt.*/bt.js
 ||mebtbtt.*/imgs.js
 ||mebtbtt.*/jslb.js
@@ -17,7 +23,8 @@
 ||mebtbtt.*/slade.js
 mebtbtt.top,mebtbtt.co,mebtbtt.me,mebtbtt.net,mebtbtt.pw##.wrapper_bg_c
 
-!hao123
+!---------------hao123---------------
+||m.hao123.com^
 www.hao123.com##.slidetoolbarContainer
 www.hao123.com##.notice
 www.hao123.com##.hotsearchCon
