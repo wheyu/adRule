@@ -1,4 +1,9 @@
-! title: clean rule
+[Adblock Plus 2.1]
+! Version: 180920
+! Title:  clean rule
+! Last modified: 2018/09/20
+! Email: null
+! Homepage: null
 
 !bt÷Æº“
 ||mebtbtt.*/bt.js
