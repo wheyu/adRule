@@ -4,6 +4,7 @@
 ! Last modified: 2018/09/20
 ! Email: null
 ! Homepage: null
+!¨I¡ü¨J¡û¡ú¨L¡ý¨K
 !---------------baidu---------------
 ||bdstatic.com/
 ||gss0.baidu.com^
@@ -58,3 +59,5 @@ www.hao123.com##.g-lh14.tips
 @@||tb1.bdstatic.com/tb/cms/ngmis/images/*
 @@||tb1.bdstatic.com/tb/r/image/*/*
 @@||tb1.bdstatic.com/tb/r/image/*
+!----Ìù°ÉÍ·Ïñ----¡ý
+@@||gss0.bdstatic.com/*/sys/portrait/item/*
