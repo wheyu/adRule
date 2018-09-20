@@ -10,6 +10,8 @@
 ||gss1.baidu.com^
 ||gss2.baidu.com^
 
+!---------------all---------------
+*imgmini.eastday.com^
 
 !---------------btÖ®¼Ò---------------
 ||mebtbtt.*/bt.js
