@@ -1,3 +1,5 @@
+! title: clean rule
+
 !bt÷Æº“
 ||mebtbtt.*/bt.js
 ||mebtbtt.*/imgs.js
