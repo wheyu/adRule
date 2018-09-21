@@ -15,6 +15,10 @@
 ||qianliexiancha.com^
 ||anhuilitian.net^
 ||yinhangjr.net^
+##div[class^="ADTOPLB_"]
+##div[class^="index-ads-screen"]
+##div[class^="go115"]
+##div[class^="ads_top"]
 
 !---------------bt÷Æº“---------------
 ||mebtbtt.*/bt.js
