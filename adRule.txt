@@ -12,6 +12,9 @@
 
 !---------------all---------------
 *imgmini.eastday.com^
+||qianliexiancha.com^
+||anhuilitian.net^
+||yinhangjr.net^
 
 !---------------btÖ®¼Ò---------------
 ||mebtbtt.*/bt.js
@@ -51,7 +54,6 @@ www.hao123.com##[id^='coolsite-bottom-group']> .coolsiteresource > .coolsitereso
 www.hao123.com##[id^='coolsite-top-group']> .coolsiteresource > .coolsiteresource-tip.g-ib
 www.hao123.com##[id^='coolsite-top-group']> .coolsitead > .tridown.coolsitead-tip.g-ib
 www.hao123.com##.g-lh14.tips
-
 
 !---------------allow---------------
 !@@||tb1.bdstatic.com/tb/*
