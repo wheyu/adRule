@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 180920
+! Version: 180925
 ! Title:  clean rule
-! Last modified: 2018/09/20
+! Last modified: 2018/09/25
 ! Email: null
 ! Homepage: null
 !¨I¡ü¨J¡û¡ú¨L¡ý¨K
@@ -60,6 +60,14 @@ www.hao123.com##[id^='coolsite-bottom-group']> .coolsiteresource > .coolsitereso
 www.hao123.com##[id^='coolsite-top-group']> .coolsiteresource > .coolsiteresource-tip.g-ib
 www.hao123.com##[id^='coolsite-top-group']> .coolsitead > .tridown.coolsitead-tip.g-ib
 www.hao123.com##.g-lh14.tips
+!---------------QQ¿Õ¼ä---------------
+qzone.qq.com##[class*="hot"]
+qzone.qq.com##[class*="ad"]
+qzone.qq.com##[id*="applist"]
+qzone.qq.com##[id^="QM_Container_10000"]
+
+!---------------video---------------
+##[class^="carouse"]
 
 !---------------allow---------------
 !@@||tb1.bdstatic.com/tb/*
