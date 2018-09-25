@@ -69,7 +69,7 @@ qzone.qq.com##[class="f-ct-vedio-play"]
 ||video.qzone.qq.com^
 
 !---------------video---------------
-##[class^="carouse"]
+kmeiju7.com##[class="banner"]
 
 !---------------allow---------------
 !@@||tb1.bdstatic.com/tb/*
