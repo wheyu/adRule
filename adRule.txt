@@ -18,9 +18,9 @@
 ##[class^="ADTOPLB_"]
 ##[class^="index-ads-screen"]
 ##[class^="go115"]
-##[class^="ads_top"]
 ##[class^="adplan"]
 ##[class^="adv"]
+##[class^="ads"]
 
 !---------------bt÷Æº“---------------
 ||mebtbtt.*/bt.js
