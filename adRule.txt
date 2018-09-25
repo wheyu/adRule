@@ -60,7 +60,13 @@ www.hao123.com##[id^='coolsite-bottom-group']> .coolsiteresource > .coolsitereso
 www.hao123.com##[id^='coolsite-top-group']> .coolsiteresource > .coolsiteresource-tip.g-ib
 www.hao123.com##[id^='coolsite-top-group']> .coolsitead > .tridown.coolsitead-tip.g-ib
 www.hao123.com##.g-lh14.tips
+
 !---------------QQ¿Õ¼ä---------------
+qzone.qq.com##[class*="hot"]
+qzone.qq.com##[id*="applist"]
+qzone.qq.com##[id^="QM_Container_10000"]
+qzone.qq.com##[class="f-ct-vedio-play"]
+||video.qzone.qq.com^
 
 !---------------video---------------
 ##[class^="carouse"]
