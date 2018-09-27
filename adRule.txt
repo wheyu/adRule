@@ -15,6 +15,10 @@
 ||qianliexiancha.com^
 ||anhuilitian.net^
 ||yinhangjr.net^
+||digitaldsp.com^
+||sectivity.mobi^
+*newsupdatesky*
+
 ##[class^="ADTOPLB_"]
 ##[class^="index-ads-screen"]
 ##[class^="go115"]
