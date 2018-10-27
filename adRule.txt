@@ -26,6 +26,7 @@
 ##[class^="adv"]
 ##[class^="ads"]
 
+
 !---------------btÖ®¼Ò---------------
 ||mebtbtt.*/bt.js
 ||mebtbtt.*/imgs.js
@@ -77,6 +78,9 @@ kmeiju7.com##[class="banner"]
 
 !---------------allow---------------
 !@@||tb1.bdstatic.com/tb/*
+
+!---------------block---------------
+www.6767qq.com##body > .top_box
 
 !-------------À¬»øÍøÕ¾--------------
 ||021wudi.com
