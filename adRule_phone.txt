@@ -1,0 +1,10 @@
+[Adblock Plus 2.1]
+! Version: 180925
+! Title:  clean phone rule
+! Last modified: 2018/11/9
+! Email: null
+! Homepage: null
+!¨I¡ü¨J¡û¡ú¨L¡ý¨K
+
+!========================
+$script,third-party,domain=qingkan9.com

@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 180925
+! Version: 181109
 ! Title:  clean rule
-! Last modified: 2018/09/25
+! Last modified: 2018/11/9
 ! Email: null
 ! Homepage: null
 !¨I¡ü¨J¡û¡ú¨L¡ý¨K
@@ -109,4 +109,5 @@ www.6767qq.com##body > .top_box
 ||digitaldsp.com^
 ||sectivity.mobi^
 ||qj.borsendental.com^
+||apk.gelinboer.cn
 www.xd0.com/*.gif$image
