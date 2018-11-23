@@ -96,6 +96,10 @@ kmeiju7.com##[class="banner"]
 !---------------block---------------
 www.6767qq.com##body > .top_box
 
+!---------------直播---------------
+||popoxiu*
+news.ifeng.com##.pao_mid
+
 !---------------spcial---------------
 !掌上百科 反广告拦截提示
 @@/advertisement_ads_$domain=pdawiki.com
