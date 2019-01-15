@@ -29,7 +29,7 @@
 !---------------all---------------
 *newsupdatesky*
 
-##[class^="ADTOPLB_"]
+##[class^="adtoplb"]
 ##[class^="index-ads-screen"]
 ##[class^="go115"]
 ##[class^="adplan"]
