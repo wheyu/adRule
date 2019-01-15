@@ -35,6 +35,7 @@
 ##[class^="adplan"]
 ##[class^="adv"]
 ##[class^="ads"]
+##[class^="adblock"]
 
 !---------------baidu---------------
 ||gss0.baidu.com^
