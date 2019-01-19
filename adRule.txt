@@ -29,13 +29,14 @@
 !---------------all---------------
 *newsupdatesky*
 
-##[class^="ADTOPLB_"]
+##[class^="adtoplb"]
 ##[class^="index-ads-screen"]
 ##[class^="go115"]
 ##[class^="adplan"]
 ##[class^="adv"]
 ##[class^="ads"]
 ##[id^='__jclm_']
+##[class^="adblock"]
 
 !---------------baidu---------------
 ||gss0.baidu.com^
@@ -98,6 +99,10 @@ kmeiju7.com##[class="banner"]
 www.6767qq.com##body > .top_box
 $script,domain=aa324.com
 $script,domain=btdiggs.xyz
+
+!---------------直播---------------
+||popoxiu*
+news.ifeng.com##.pao_mid
 
 !---------------spcial---------------
 !掌上百科 反广告拦截提示
