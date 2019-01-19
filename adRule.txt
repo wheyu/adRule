@@ -35,6 +35,7 @@
 ##[class^="adplan"]
 ##[class^="adv"]
 ##[class^="ads"]
+##[id^='__jclm_']
 
 !---------------baidu---------------
 ||gss0.baidu.com^
@@ -95,6 +96,8 @@ kmeiju7.com##[class="banner"]
 
 !---------------block---------------
 www.6767qq.com##body > .top_box
+$script,domain=aa324.com
+$script,domain=btdiggs.xyz
 
 !---------------spcial---------------
 !掌上百科 反广告拦截提示
@@ -110,4 +113,10 @@ www.6767qq.com##body > .top_box
 ||sectivity.mobi^
 ||qj.borsendental.com^
 ||apk.gelinboer.cn
+||cbu01.alicdn.com/*.jpg$image
+||b.kuangtuiguoo18888.com
+||m.dsgy521.com
+||i.jyhwt.cn
+||jc.bubbleandyeson.com
+||jc.shenglonghg.net
 www.xd0.com/*.gif$image
