@@ -37,6 +37,7 @@
 ##[class^="ads"]
 ##[id^='__jclm_']
 ##[class^="adblock"]
+##[class^="ad-"]
 
 !---------------baidu---------------
 ||gss0.baidu.com^
