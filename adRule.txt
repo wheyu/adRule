@@ -91,6 +91,11 @@ qzone.qq.com##[class="f-ct-vedio-play"]
 ||video.qzone.qq.com
 user.qzone.qq.com##.f-single-top+div,.f-single-top+div+div,.f-single-top+div+div+div
 
+!---------------BTÖ®¼Ò---------------
+92btbtt.*/imgs.js
+92btbtt.*/view/image/QT_
+92btbtt.com###wrapper2 > .width
+
 !---------------video---------------
 kmeiju7.com##[class="banner"]
 
