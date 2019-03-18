@@ -38,6 +38,7 @@
 ##[id^='__jclm_']
 ##[class^="adblock"]
 ##[class^="ad-"]
+##.AdblockBanner
 ###downdiv
 
 
