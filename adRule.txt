@@ -50,6 +50,8 @@
 ||gss0.baidu.com^
 ||gss1.baidu.com^
 ||gss2.baidu.com^
+||ksv-video-publish.cdn.bcebos.com^
+
 !---------------bt÷Æº“---------------
 ||mebtbtt.*/bt.js
 ||mebtbtt.*/imgs.js
