@@ -124,5 +124,5 @@ news.ifeng.com##.pao_mid
 ||i.jyhwt.cn
 ||jc.bubbleandyeson.com
 ||jc.shenglonghg.net
-gitee.com##.g-wxad__wrapper
+gitee.com##.g-wxad__wrapper,.float-people,[href^="/enterprises"]
 www.xd0.com/*.gif$image
