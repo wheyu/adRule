@@ -35,7 +35,7 @@
 ##[id='xx_cover']
 
 !---------------baidu---------------
-||ksv-video-publish.cdn.bcebos.com^
+
 
 !---------------bt÷Æº“---------------
 ||mebtbtt.*/bt.js
