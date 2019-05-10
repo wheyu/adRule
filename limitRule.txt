@@ -1,0 +1,11 @@
+[Adblock Plus 2.1]
+! Version: 181109
+! Title:  limit rule
+! Last modified: 2019/5/10
+! Email: null
+! Homepage: null
+
+
+!---------------all---------------
+!---百度经验视频播放
+||ksv-video-publish.cdn.bcebos.com^

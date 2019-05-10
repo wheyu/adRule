@@ -139,4 +139,5 @@ news.ifeng.com##.pao_mid
 ||i.jyhwt.cn
 ||jc.bubbleandyeson.com
 ||jc.shenglonghg.net
+gitee.com##.g-wxad__wrapper
 www.xd0.com/*.gif$image
