@@ -35,9 +35,6 @@
 ##[id='xx_cover']
 
 !---------------baidu---------------
-||gss0.baidu.com^
-||gss1.baidu.com^
-||gss2.baidu.com^
 ||ksv-video-publish.cdn.bcebos.com^
 
 !---------------bt÷Æº“---------------
