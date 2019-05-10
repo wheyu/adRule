@@ -28,6 +28,7 @@
 ###downdiv
 ###web-note-ad-1
 ###note-fixed-ad-container
+##.trans-ad-app
 
 
 !---------------À¬»øì³Ñ¶Éý¼¶µ¯´°---------------
