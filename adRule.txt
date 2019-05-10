@@ -26,6 +26,8 @@
 ##[class^="ad-"]
 ##.AdblockBanner
 ###downdiv
+###web-note-ad-1
+###note-fixed-ad-container
 
 
 !---------------À¬»øì³Ñ¶Éý¼¶µ¯´°---------------
@@ -52,30 +54,6 @@ mebtbtt.top,mebtbtt.co,mebtbtt.me,mebtbtt.net,mebtbtt.pw##.wrapper_bg_c
 
 !---------------hao123---------------
 ||m.hao123.com^
-www.hao123.com##.slidetoolbarContainer
-www.hao123.com##.notice
-www.hao123.com##.hotsearchCon
-www.hao123.com##.page-bottom.page-bg.page-width
-www.hao123.com###hao123-bottom
-www.hao123.com###layout-hlbar
-www.hao123.com###box-toplist0
-www.hao123.com##.hotsearchCon
-www.hao123.com###skinbtn
-www.hao123.com##.hotword-hook.hotword
-www.hao123.com###sethome
-www.hao123.com##li.site-item:nth-of-type(16) > .g_tips-r.tips_link > .g_icon
-www.hao123.com##.adlist1
-www.hao123.com###coolsite-bottom-group4-cate0-ad
-www.hao123.com##[id^='coolsite-bottom-group'] > .pic_icon
-www.hao123.com##[id^='coolsite-bottom-group'] > .coolsitead
-www.hao123.com##[id^='coolsite-top-group'] > .pic_icon
-www.hao123.com##[id^='coolsite-top-group'] > .coolsitead
-www.hao123.com###coolbar4
-www.hao123.com##[id^='coolbar'] > .bar-text
-www.hao123.com##[id^='coolsite-bottom-group']> .coolsiteresource > .coolsiteresource-tip.g-ib
-www.hao123.com##[id^='coolsite-top-group']> .coolsiteresource > .coolsiteresource-tip.g-ib
-www.hao123.com##[id^='coolsite-top-group']> .coolsitead > .tridown.coolsitead-tip.g-ib
-www.hao123.com##.g-lh14.tips
 
 !---------------QQ¿Õ¼ä---------------
 qzone.qq.com##[class*="hot"]
@@ -99,6 +77,8 @@ kmeiju7.com##[class="banner"]
 !---------------block---------------
 www.6767qq.com##body > .top_box
 $script,domain=btdiggs.xyz
+gitee.com##.g-wxad__wrapper,.float-people,[href^="/enterprises"]
+www.xd0.com/*.gif$image
 
 !---------------Ö±²¥---------------
 ||popoxiu*
@@ -124,5 +104,3 @@ news.ifeng.com##.pao_mid
 ||i.jyhwt.cn
 ||jc.bubbleandyeson.com
 ||jc.shenglonghg.net
-gitee.com##.g-wxad__wrapper,.float-people,[href^="/enterprises"]
-www.xd0.com/*.gif$image
