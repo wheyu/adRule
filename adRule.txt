@@ -26,9 +26,11 @@
 ##[class^="ad-"]
 ##.AdblockBanner
 ###downdiv
+##.slide-gg
 ###web-note-ad-1
 ###note-fixed-ad-container
 ##.trans-ad-app
+/ads/*.gif
 
 
 !---------------À¬»øì³Ñ¶Éý¼¶µ¯´°---------------
@@ -77,6 +79,7 @@ www.6767qq.com##body > .top_box
 $script,domain=btdiggs.xyz
 gitee.com##.g-wxad__wrapper,.float-people,[href^="/enterprises"]
 www.xd0.com/*.gif$image
+||cdn.ix90.com/*.gif
 
 !---------------Ö±²¥---------------
 ||popoxiu*
