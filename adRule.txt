@@ -32,6 +32,7 @@
 ##.trans-ad-app
 /ads/*.gif
 ##.ui-overlay-mask
+||upload.cc/*.gif
 
 
 !---------------À¬»øì³Ñ¶Éý¼¶µ¯´°---------------
