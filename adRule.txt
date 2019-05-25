@@ -82,6 +82,7 @@ $script,domain=btdiggs.xyz
 gitee.com##.g-wxad__wrapper,.float-people,[href^="/enterprises"]
 www.xd0.com/*.gif$image
 ||cdn.ix90.com/*.gif
+||sta-op.douyucdn.cn/*.gif$image
 
 !---------------Ö±²¥---------------
 ||popoxiu*
