@@ -33,7 +33,6 @@
 /ads/*.gif
 ##.ui-overlay-mask
 ||upload.cc/*.gif
-##.swiper-wrapper
 ##.slider-bottom
 
 
