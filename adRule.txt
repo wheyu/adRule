@@ -15,7 +15,6 @@
 !---------------all---------------
 *newsupdatesky*
 
-##[class^="adtoplb"]
 ##[class^="index-ads-screen"]
 ##[class^="go115"]
 ##[class^="adplan"]
@@ -24,6 +23,7 @@
 ##[id^='__jclm_']
 ##[class^="adblock"]
 ##[class^="ADTOPLB_"]
+##[id^="newsdl_"]
 ##[id^="wkad"]
 ##[class^="ad-"]
 ##.AdblockBanner
