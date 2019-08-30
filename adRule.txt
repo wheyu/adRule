@@ -25,6 +25,7 @@
 ##[class^="adblock"]
 ##[class^="ADTOPLB_"]
 ##[id^="newsdl_"]
+##[class^="con_ad"]
 ##[id^="wkad"]
 ##[class^="ad-"]
 ##.AdblockBanner
