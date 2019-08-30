@@ -1,7 +1,7 @@
 [
   {
     "bookSourceGroup": "优 发现",
-    "bookSourceName": "追读热搜 ?",
+    "bookSourceName": "文墨中文网",
     "bookSourceType": "",
     "bookSourceUrl": "https://www.zhuidu.cc",
     "enable": true,
@@ -66,7 +66,7 @@
   },
   {
   "bookSourceGroup": "优",
-  "bookSourceName": "#ABC小说网~abcxs.com",
+  "bookSourceName": "ABC小说网",
   "bookSourceType": "",
   "bookSourceUrl": "http://www.abcxs.com",
   "enable": true,
@@ -97,7 +97,7 @@
   },
   {
   "bookSourceGroup": "优选",
-  "bookSourceName": "#追书网~bimo.cc",
+  "bookSourceName": "追书网",
   "bookSourceType": "",
   "bookSourceUrl": "https://www.bimo.cc",
   "enable": true,
