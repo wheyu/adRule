@@ -19,6 +19,7 @@
 ##[class^="go115"]
 ##[class^="adplan"]
 ##[class^="adv"]
+##[class^="yd_ad"]
 ##[class^="ads"]
 ##[id^='__jclm_']
 ##[class^="adblock"]
@@ -111,3 +112,4 @@ news.ifeng.com##.pao_mid
 ||i.jyhwt.cn
 ||jc.bubbleandyeson.com
 ||jc.shenglonghg.net
+||mo.osvp2.cn
