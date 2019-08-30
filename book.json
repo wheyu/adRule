@@ -1,7 +1,7 @@
-[
+ï»¿[
   {
-    "bookSourceGroup": "ÓÅ ·¢ÏÖ",
-    "bookSourceName": "ÎÄÄ«ÖĞÎÄÍø",
+    "bookSourceGroup": "ä¼˜ å‘ç°",
+    "bookSourceName": "æ–‡å¢¨ä¸­æ–‡ç½‘",
     "bookSourceType": "",
     "bookSourceUrl": "https://www.zhuidu.cc",
     "enable": true,
@@ -17,8 +17,8 @@
     "ruleContentUrl": "href",
     "ruleContentUrlNext": "",
     "ruleCoverUrl": "//meta[@property=\"og:image\"]/@content()",
-    "ruleFindUrl": "°Ù¶ÈÈÈËÑ::/rank/baidu.html&&\n×·ÊéÈÈ¶È::/rank/zhuishu.html&&\nÊéÆìÈÈËÑ::/rank/shuqi.html&&\nÕÆÔÄÈÈÏú::/rank/zhangyue.html&&\nÆğµãÔÂÆ±::/rank/qidian.html&&\n17KÏÊ»¨::/rank/17k.html&&\n×Üµã»÷::/rank/allvisit/{searchPage}.html&&\nÔÂµã»÷::/rank/monthvisit/{searchPage}.html&&\nÖÜµã»÷::/rank/weekvisit/{searchPage}.html&&\nÈÕµã»÷::/rank/dayvisit/{searchPage}.html&&\nÍÆ¼öÊı::/rank/vote/{searchPage}.html&&\nÊÕ²ØÊı::/rank/mark/{searchPage}.html&&\nÏÂÔØÊı::/rank/down/{searchPage}.html&&\nÆÀÂÛÊı::/rank/comment/{searchPage}.html&&\nÆÀ·Ö::/rank/star_score/{searchPage}.html&&",
-    "ruleIntroduce": "//meta[@property=\"og:description\"]/@content()\n<js>result.replace(/^|\\s+(?=[^a-zA-Z])|(¡ª|¨C|=){3,}/g,\"\\n\")</js>",
+    "ruleFindUrl": "ç™¾åº¦çƒ­æœ::/rank/baidu.html&&\nè¿½ä¹¦çƒ­åº¦::/rank/zhuishu.html&&\nä¹¦æ——çƒ­æœ::/rank/shuqi.html&&\næŒé˜…çƒ­é”€::/rank/zhangyue.html&&\nèµ·ç‚¹æœˆç¥¨::/rank/qidian.html&&\n17Ké²œèŠ±::/rank/17k.html&&\næ€»ç‚¹å‡»::/rank/allvisit/{searchPage}.html&&\næœˆç‚¹å‡»::/rank/monthvisit/{searchPage}.html&&\nå‘¨ç‚¹å‡»::/rank/weekvisit/{searchPage}.html&&\næ—¥ç‚¹å‡»::/rank/dayvisit/{searchPage}.html&&\næ¨èæ•°::/rank/vote/{searchPage}.html&&\næ”¶è—æ•°::/rank/mark/{searchPage}.html&&\nä¸‹è½½æ•°::/rank/down/{searchPage}.html&&\nè¯„è®ºæ•°::/rank/comment/{searchPage}.html&&\nè¯„åˆ†::/rank/star_score/{searchPage}.html&&",
+    "ruleIntroduce": "//meta[@property=\"og:description\"]/@content()\n<js>result.replace(/^|\\s+(?=[^a-zA-Z])|(â€”|â€“|=){3,}/g,\"\\n\")</js>",
     "ruleSearchAuthor": "tag.a.2@title",
     "ruleSearchCoverUrl": "tag.img.0@src",
     "ruleSearchIntroduce": "class.desc@text",
@@ -32,8 +32,8 @@
     "weight": 6804
   },
   {
-  "bookSourceGroup": "ÓÅ",
-  "bookSourceName": "88¶ÁÊéÍø",
+  "bookSourceGroup": "ä¼˜",
+  "bookSourceName": "88è¯»ä¹¦ç½‘",
   "bookSourceUrl": "http://www.88dushu.com",
   "enable": true,
   "httpUserAgent": "",
@@ -65,8 +65,8 @@
   "weight": 0
   },
   {
-  "bookSourceGroup": "ÓÅ",
-  "bookSourceName": "ABCĞ¡ËµÍø",
+  "bookSourceGroup": "ä¼˜",
+  "bookSourceName": "ABCå°è¯´ç½‘",
   "bookSourceType": "",
   "bookSourceUrl": "http://www.abcxs.com",
   "enable": true,
@@ -86,8 +86,8 @@
   "ruleIntroduce": "id.intro@tag.p.0@text",
   "ruleSearchAuthor": "class.author.0@text|id.info@tag.p.0@text",
   "ruleSearchCoverUrl": "class.bookimg@tag.a@tag.img@src",
-  "ruleSearchKind": "class.cat.0@text#·ÖÀà£º",
-  "ruleSearchLastChapter": "class.update.0@text#×îĞÂÕÂ½Ú£º",
+  "ruleSearchKind": "class.cat.0@text#åˆ†ç±»ï¼š",
+  "ruleSearchLastChapter": "class.update.0@text#æœ€æ–°ç« èŠ‚ï¼š",
   "ruleSearchList": "class.p10|id.maininfo",
   "ruleSearchName": "class.bookname.0@tag.a.0@text|id.info@tag.h1.0@text",
   "ruleSearchNoteUrl": "class.bookname@tag.a.0@href",
@@ -96,8 +96,8 @@
   "weight": 19
   },
   {
-  "bookSourceGroup": "ÓÅÑ¡",
-  "bookSourceName": "×·ÊéÍø",
+  "bookSourceGroup": "ä¼˜é€‰",
+  "bookSourceName": "è¿½ä¹¦ç½‘",
   "bookSourceType": "",
   "bookSourceUrl": "https://www.bimo.cc",
   "enable": true,
