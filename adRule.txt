@@ -92,7 +92,8 @@ www.xd0.com/*.gif$image
 !---------------直播---------------
 ||popoxiu*
 news.ifeng.com##.pao_mid
-
+www.huya.com##.room-gg-top
+www.douyu.com##[class^="vsFestival"]
 !---------------spcial---------------
 !掌上百科 反广告拦截提示
 @@/advertisement_ads_$domain=pdawiki.com
