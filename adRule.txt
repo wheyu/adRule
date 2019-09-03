@@ -58,6 +58,9 @@
 ||mebtbtt.*/view/image/QT_
 ||mebtbtt.*/slade.js
 mebtbtt.top,mebtbtt.co,mebtbtt.me,mebtbtt.net,mebtbtt.pw##.wrapper_bg_c
+92btbtt.*/imgs.js
+92btbtt.*/view/image/QT_
+92btbtt.com###wrapper2 > .width
 
 !---------------hao123---------------
 ||m.hao123.com^
@@ -70,10 +73,11 @@ qzone.qq.com##[class="f-ct-vedio-play"]
 ||video.qzone.qq.com
 user.qzone.qq.com##.f-single-top+div,.f-single-top+div+div,.f-single-top+div+div+div
 
-!---------------BT之家---------------
-92btbtt.*/imgs.js
-92btbtt.*/view/image/QT_
-92btbtt.com###wrapper2 > .width
+!---------------直播---------------
+||popoxiu*
+news.ifeng.com##.pao_mid
+www.huya.com##.room-gg-top
+www.douyu.com##[class^="vsFestival"]
 
 !---------------video---------------
 kmeiju7.com##[class="banner"]
@@ -88,12 +92,9 @@ gitee.com##.g-wxad__wrapper,.float-people,[href^="/enterprises"]
 www.xd0.com/*.gif$image
 ||cdn.ix90.com/*.gif
 ||sta-op.douyucdn.cn/*.gif$image
+blog.csdn.net##[id^="kp_box_"]
+tower.im##[class^="simple-dialog"]
 
-!---------------直播---------------
-||popoxiu*
-news.ifeng.com##.pao_mid
-www.huya.com##.room-gg-top
-www.douyu.com##[class^="vsFestival"]
 !---------------spcial---------------
 !掌上百科 反广告拦截提示
 @@/advertisement_ads_$domain=pdawiki.com
