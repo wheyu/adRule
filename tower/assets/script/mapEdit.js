@@ -20,6 +20,7 @@ cc.Class({
             nullNode.addComponent('changeChild')
             this.mapContent.addChild(nullNode)
         }
+        // gameData.startEmitEnemyState()
     },
 
     start () {
@@ -94,4 +95,7 @@ cc.Class({
         destroyNode.removeFromParent()
     },
 
+    close(){
+        this.node.active = false
+    },
 });
